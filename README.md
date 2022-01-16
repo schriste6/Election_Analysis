@@ -1,6 +1,6 @@
 # Election Analysis  
 ## Overview of Election Audit
-### A Colorado Board of elections committee requested an automated audit process that delivered outcome data of a recent local congressional election.  
+### A Colorado Board of elections committee requested an automated audit process that delivers outcome data of a recent local congressional election.  
 ## Resources  
 * Data Source: election_results.csv
 * Software: Python 3.9.7, Visual Studio Code 1.63.2
