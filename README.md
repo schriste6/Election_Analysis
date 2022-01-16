@@ -1,26 +1,23 @@
-# Election_Analysis  
-## Project Overview  
-### A Colorado Board of elections employee has given you the following tasks to compelte the election audit of a recent local congressional election.  
-1. Calculate the total number votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+# Election Analysis  
+## Overview of Election Audit
+### A Colorado Board of elections committee requested an automated audit process that delivered outcome data of a recent local congressional election.  
 ## Resources  
 * Data Source: election_results.csv
 * Software: Python 3.9.7, Visual Studio Code 1.63.2
-## Summary  
-The Analysis of the election show that:
-* There were 369,711 votes cast in the election
-* The candidates were:
-  * Charles Casper Sockham
-  * Raymon Anthony Doane
-  * Diana DeGette
-* The candidate results were:
+## Election Audit Results  
+The Analysis of the election delivered the following outcomes:  
+* **369,711 total votes** were cast in this congressional election
+* County breakdown by percentage of total votes and (number of cast votes):
+  * Jefferson: 10.5% (38,855)
+  * Denver: 82.8% (306,055)
+  * Arapahoe: 6.7% (24,801)
+* **Denver** received the largest number of votes (306,055)
+* Candidate breakdown by percent of the total votes (number of cast votes):
   * Charles Casper Stockham: 23.0% (85,213)
   * Diana DeGette: 73.8% (272,892)
   * Raymon Anthony Doane: 3.1% (11,606)
-* The winner of the election was:
-  * **Diana DeGette: 73.8% (272,892)**
-# Challenge Overview
+* **Diana DeGette won the election with 73.8% of the votes and 272,892 cast votes**
 # Challenge Summary
+The automated audit process developed for the recent congressional election is proven successful by delivering on all requested outcomes. An unexpected 'win' is the developed script can be modified to apply to any election, and even enhanced to deliver additional outcomes:
+   1. Expand lists and dictionaries to include local, state, and national.  This would allow any election committee audit election results with consistency, accuracy, and efficency.  
+   2. Expand deliverables to include other important information from elections data.  Greatest county turnout is developed in the current script, but perhaps (hypothetically) there's interest in knowing the lowest county turnout because it may suggest disengagement from government services.
