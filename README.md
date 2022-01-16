@@ -20,4 +20,6 @@ The Analysis of the election delivered the following outcomes:
 # Challenge Summary
 The automated audit process developed for the recent congressional election is proven successful by delivering on all requested outcomes. An unexpected 'win' is the developed script can be modified to apply to any election, and even enhanced to deliver additional outcomes:
    1. Expand lists and dictionaries to include local, state, and national.  This would allow any election committee audit election results with consistency, accuracy, and efficency.  
-   2. Expand deliverables to include other important information from elections data.  Greatest county turnout is developed in the current script, but perhaps (hypothetically) there's interest in knowing the lowest county turnout because it may suggest disengagement from government services.
+![](/Resources/Example_1_dict_list.png)
+   3. Expand deliverables to include other important information from elections data.  Greatest county turnout is developed in the current script, but perhaps (hypothetically) there's interest in knowing the lowest county turnout because it may suggest disengagement from government services.
+![](/Resources/Example_1_lowest_turnout.png)
